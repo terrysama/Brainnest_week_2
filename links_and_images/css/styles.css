@@ -6,7 +6,6 @@
 }
 
 h1{
-    color: rgb(43, 90, 71);
     font-size: 3.5em;
 }
 h2{
@@ -41,4 +40,3 @@ button, a.link{
 a:hover{
     color: cornflowerblue;
 }
-
